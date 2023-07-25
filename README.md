@@ -27,4 +27,5 @@ Spend less time worrying about managing a website and citations, and more time r
 - 🤝 Great documentation and support (if we do say so ourselves).
 - ... and much more!
 
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/greenelab/lab-website-template)
